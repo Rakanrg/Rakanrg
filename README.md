@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rakanrg
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Excel, SQL and PowerBi
-- 💞️ I’m looking to collaborate on Data Analytics 
+- 👀 I’m interested in Front end and Back end
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Front end 
 - 📫 How to reach me thru GitHub
 
 <!---
